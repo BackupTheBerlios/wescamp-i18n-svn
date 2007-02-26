@@ -29,14 +29,16 @@ msgid ""
 "inhabitants before it's too late."
 msgstr ""
 "Zdá se, že mírumilovný ostrov je napadán z východního pobřeží neznámými "
-"nepřáteli. Jedině rodina uprchlíků může varovat obyvatele ostrova dříve, "
-"než bude příliš pozdě."
+"nepřáteli. Jedině rodina uprchlíků může varovat obyvatele ostrova dříve, než "
+"bude příliš pozdě."
 
 #: Eliador.cfg:16
 msgid ""
 "&footpad-toddler.png=Easy;*&outlaw-princess-kid.png=Medium;&neutral-outlaw-"
 "queen.png=Hard"
-msgstr "&footpad-toddler.png=Jednoduchý;*&outlaw-princess-kid.png=Normální;&neutral-outlaw-queen.png=Těžký"
+msgstr ""
+"&footpad-toddler.png=Jednoduchý;*&outlaw-princess-kid.png=Normální;&neutral-"
+"outlaw-queen.png=Těžký"
 
 #: Eliador/scenarios/eliador-anwar.cfg:5
 msgid "Caves of Anwar"
@@ -85,8 +87,8 @@ msgid ""
 "As long as we keep a safe distance, they will not harm us. However, I fear "
 "that since I am armed, they might instinctively attack me."
 msgstr ""
-"Dokud budeme udržovat důstojný odstup, neublíží nám. Trochu se ale bojím, "
-"že na mě instinktivně zaútočí, když jsem ozbrojen."
+"Dokud budeme udržovat důstojný odstup, neublíží nám. Trochu se ale bojím, že "
+"na mě instinktivně zaútočí, když jsem ozbrojen."
 
 #: Eliador/scenarios/eliador-anwar.cfg:206
 msgid "Then drop your weapon."
@@ -178,9 +180,9 @@ msgid ""
 "underestimated them. We must join them. Together, we can end our master's "
 "evil crusade."
 msgstr ""
-"Ostrované shromáždili velkou armádu. Náš pán by je neměl podceňovat. "
-"Musíme se k nim připojit. Společně pak dotáhneme křížovou výpravu "
-"našeho pána do vítězného konce."
+"Ostrované shromáždili velkou armádu. Náš pán by je neměl podceňovat. Musíme "
+"se k nim připojit. Společně pak dotáhneme křížovou výpravu našeho pána do "
+"vítězného konce."
 
 #: Eliador/scenarios/eliador-balas.cfg:311
 msgid "Are you mad? If we betray our master, we will meet certain death."
@@ -195,7 +197,8 @@ msgstr ""
 "ostrovanům. Mám-li zemřít, pak tedy se ctí!"
 
 #: Eliador/scenarios/eliador-balas.cfg:321
-msgid "We will not surrender! All islanders and turncoats will die by my sword!"
+msgid ""
+"We will not surrender! All islanders and turncoats will die by my sword!"
 msgstr "Nevzdáme se! Všichni ostrované a přeběhlíci zemřou mým mečem!"
 
 #: Eliador/scenarios/eliador-balas.cfg:377
@@ -414,7 +417,8 @@ msgid "Surrender"
 msgstr ""
 
 #: Eliador/scenarios/eliador-home.cfg:176
-msgid "Wise decision. I will go with you to ensure that you reach Wesnoth safely."
+msgid ""
+"Wise decision. I will go with you to ensure that you reach Wesnoth safely."
 msgstr ""
 
 #: Eliador/scenarios/eliador-home.cfg:180
@@ -432,7 +436,8 @@ msgid "What will become of the residents of Eliador?"
 msgstr ""
 
 #: Eliador/scenarios/eliador-home.cfg:192
-msgid "That's no concern of yours. Now let's not keep Zilead waiting much longer."
+msgid ""
+"That's no concern of yours. Now let's not keep Zilead waiting much longer."
 msgstr ""
 
 #: Eliador/scenarios/eliador-home.cfg:196
@@ -564,11 +569,13 @@ msgid ""
 msgstr ""
 
 #: Eliador/scenarios/eliador-home.cfg:753
-msgid "There are three powerful but gentle beasts living in the caves of Anwar."
+msgid ""
+"There are three powerful but gentle beasts living in the caves of Anwar."
 msgstr ""
 
 #: Eliador/scenarios/eliador-home.cfg:754
-msgid "A group of horsemen live just south of Eliador's only volcano, Mt. Sinon."
+msgid ""
+"A group of horsemen live just south of Eliador's only volcano, Mt. Sinon."
 msgstr ""
 
 #: Eliador/scenarios/eliador-home.cfg:755
@@ -1068,4 +1075,3 @@ msgstr ""
 #: Eliador/units/Outlaw_Princess_Kid.cfg:4
 msgid "Outlaw Princess Kid"
 msgstr ""
-
