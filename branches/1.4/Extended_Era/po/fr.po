@@ -2341,12 +2341,12 @@ msgid ""
 "eggs."
 msgstr ""
 "Des nains ont fabriqué ces étranges machines qu'ils appellent "
-"« Ornithoptère ». Capables de voler, elles ont besoin d'espace pour "
-"manœuvrer et ne peuvent donc pas être utilisées dans les cavernes. Les "
-"ornithoptères sont difficiles à piloter et ne sont pas adaptés au combat "
-"rapproché. À la place, leurs pilotes lancent des œufs étranges qu'ils "
-"appellent « grenades », et qui explosent dans un bruit de tonnerre. Personne "
-"ne sait quel étrange animal pond ces œufs."
+"« Ornithoptère ». Capables de voler, elles ont besoin d'espace pour manœuvrer "
+"et ne peuvent donc pas être utilisées dans les cavernes. Les ornithoptères "
+"sont difficiles à piloter et ne sont pas adaptés au combat rapproché. À la "
+"place, leurs pilotes lancent des œufs étranges qu'ils appellent « grenades », "
+"et qui explosent dans un bruit de tonnerre. Personne ne sait quel étrange "
+"animal pond ces œufs."
 
 #. [attack]: type=impact
 #: Extended_Era/units/dwarves/Gyrocopter.cfg:36
