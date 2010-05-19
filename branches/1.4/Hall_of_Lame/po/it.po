@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2008-11-18 22:22+0100\n"
+"PO-Revision-Date: 2008-05-05 10:24+0100\n"
+"Last-Translator: Brivido <brivido(at)gmail.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. [multiplayer]
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:4
+msgid "6p - Hall of Lame"
+msgstr "6p - Sala della pazzia"
+
+#. [multiplayer]
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
+msgid ""
+"Crazy map where the terrain mutates and where you can pick a lot of powerups."
+msgstr ""
+"Mappa pazza dove il terreno cambia e dove puoi raccolgiere un mucchio di "
+"oggetti magici."
+
+#. [side]
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:20
+msgid "teamname^North"
+msgstr "Nord"
+
+#. [side]
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:29
+msgid "teamname^Southeast"
+msgstr "Sud-est"
+
+#. [side]
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:38
+msgid "teamname^Southwest"
+msgstr "Sud-ovest"
+
+#. [side]
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:47
+msgid "teamname^Northeast"
+msgstr "Nord-est"
+
+#. [side]
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:56
+msgid "teamname^Northwest"
+msgstr "Nord-ovest"
+
+#. [side]
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:65
+msgid "teamname^South"
+msgstr "Sud"
+
+#. [objective]: condition=win
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:84
+#, fuzzy
+msgid "Eradicate all enemy units"
+msgstr "Elimina tutte le unità nemiche"
+
+#. [objective]: condition=lose
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:88
+msgid "Lose all our units"
+msgstr "Perdi tutte le tue unità"
+
+#. [objectives]
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:96
+msgid ""
+"When a leader dies, a new leader will rise from his remaining units\n"
+"Some magical disorder will alter the terrain.\n"
+"- Blue Orbs will upgrade melee\n"
+"- Green Orbs will upgrade ranged\n"
+"- Red potions will upgrade hp\n"
+"- Blue potions will upgrade speed"
+msgstr ""
+"Quando un comandante viene eliminato, dalle sue unità rimaste verrà fuori un "
+"nuovo capo\n"
+"Alcuni disturbi magici modificheranno il terreno:\n"
+"- le sfere blu incrementano gli attacchi ravvicinati;\n"
+"- le sfere verdi aumentano gli attacchi a distanza;\n"
+"- le pozioni rosse aumentano i PF;\n"
+"- le pozioni blu aumentano la velocità."
+
+#: Hall_of_Lame/utils/powerups.cfg:121
+msgid "Orb of Strength"
+msgstr "Globo della forza"
+
+#: Hall_of_Lame/utils/powerups.cfg:121
+msgid " melee damages"
+msgstr " danni ravvicinati"
+
+#: Hall_of_Lame/utils/powerups.cfg:131
+msgid "+1 melee strike"
+msgstr "+1 attacco ravvicinato"
+
+#: Hall_of_Lame/utils/powerups.cfg:131
+msgid "Orb of Mightness"
+msgstr "Globo del potere"
+
+#: Hall_of_Lame/utils/powerups.cfg:141
+msgid "Orb of Dexterity"
+msgstr "Globo della destrezza"
+
+#: Hall_of_Lame/utils/powerups.cfg:141
+msgid " ranged damages"
+msgstr " danni a distanza"
+
+#: Hall_of_Lame/utils/powerups.cfg:151
+msgid "Orb of Marksmanship"
+msgstr "Globo della precisione"
+
+#: Hall_of_Lame/utils/powerups.cfg:151
+msgid "+1 ranged strike"
+msgstr "+1 attacco a distanza"
+
+#: Hall_of_Lame/utils/powerups.cfg:161
+msgid " HP"
+msgstr "PF"
+
+#: Hall_of_Lame/utils/powerups.cfg:161
+msgid "Elixir of Toughness"
+msgstr "Elisir della resistenza"
+
+#: Hall_of_Lame/utils/powerups.cfg:170
+msgid " Move"
+msgstr "Muovi"
+
+#: Hall_of_Lame/utils/powerups.cfg:170
+msgid "Elixir of Speed"
+msgstr "Elisir della velocità"
+
+#: Hall_of_Lame/utils/powerups.cfg:175
+msgid " gold"
+msgstr "oro"
+
+#: Hall_of_Lame/utils/powerups.cfg:175
+msgid "Treasure chest"
+msgstr "Baule del tesoro"
